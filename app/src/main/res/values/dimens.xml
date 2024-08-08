@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="activity_horizontalMargin">12dp</dimen>
+	<dimen name="activity_verticalMargin">12dp</dimen>
+
+	<dimen name="toolbar_height">354dp</dimen>
+	<dimen name="fab_margin">22dp</dimen>
+
+	<dimen name="main_titleContainer_horizontalMargin">50dp</dimen>
+	<dimen name="main_txtOrganizationName_textSize">36sp</dimen>
+	<dimen name="main_txtLocationName_textSize">22sp</dimen>
+	<dimen name="main_txtWelcomeMessage_textSize">18sp</dimen>
+	<dimen name="main_coverContainer_endMargin">-30dp</dimen>
+	<dimen name="main_tabsContainer_endPadding">80dp</dimen>
+	<dimen name="main_tabsContainer_horizontalMargin">-16dp</dimen>
+	<dimen name="main_fab_bottomMargin">72dp</dimen>
+	<dimen name="main_viewPager_topMargin">-38dp</dimen>
+</resources>

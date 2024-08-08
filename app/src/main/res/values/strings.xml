@@ -1,0 +1,14 @@
+<resources>
+	<string name="app_name">Sloping Toolbar</string>
+
+	<string name="fixed_app_bar_layout_behaviour">com.example.slopingtoolbar.FixedAppBarLayoutBehavior</string>
+
+	<string name="toast_call">Call</string>
+	<string name="toast_showCart">Show Cart</string>
+
+	<string name="toast_services">Services</string>
+	<string name="toast_menu">Menu</string>
+	<string name="toast_info">About</string>
+	<string name="text_location">Location</string>
+	<string name="text_welcome">Welcome to Sloping Toolbar</string>
+</resources>
